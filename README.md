@@ -37,13 +37,6 @@ mvn clean compile
 
 La forma de ejecución depende del trabajo práctico contenido en la branch correspondiente.
 
-## Convención de Branches
-
-* `main`: versión estable.
-* `develop`: integración de cambios.
-* `feature/*`: funcionalidades específicas.
-* Otras ramas pueden utilizarse para prácticas, pruebas o entregas.
-
 ## Autor
 
 Leonardo Felipe Stefaniszen Maiczuk

@@ -1,0 +1,16 @@
+[
+  {
+    "ipUrl": "192.168.0.10",
+    "nombreServidor": "API-01",
+    "endpointApi": "/health",
+    "codigoHttp": 200,
+    "tiempoRespuesta": 120
+  },
+  {
+    "ipUrl": "192.168.0.20",
+    "nombreServidor": "DB-01",
+    "endpointApi": "/status",
+    "codigoHttp": 500,
+    "tiempoRespuesta": 2200
+  }
+]

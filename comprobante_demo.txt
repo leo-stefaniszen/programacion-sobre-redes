@@ -1,0 +1,11 @@
+ARCHIVO DE PRUEBA - no es un comprobante real
+=============================================
+Titular .....: Pepito Gonzalez
+Orden .......: TT-2026-004871 (numero de ejemplo)
+Fecha .......: 15/11/2026
+Medio .......: transferencia
+Importe .....: $ 132.400
+Detalle .....: 1 teclado mecanico + 1 mouse gamer
+Estado ......: acreditado
+=============================================
+Sirve para probar el comando: subir comprobante
